@@ -18,10 +18,6 @@ body {
 
 }
 
-.err404video {
-	filter: contrast(150%);
-}
-
 .centerdiv {
 	position: absolute;
 	display: flex;
@@ -35,5 +31,5 @@ body {
 }
 
 .err404centerdiv {
-	background: rgba(255,0,0,0.1); color: hsl(0,100%,90%);
+	background: rgba(255,0,0,0.0); color: hsl(0,100%,60%);
 }
